@@ -1,0 +1,1 @@
+cd SariJay-Automation && git add . && git commit -m "Initial: InspireFlow AI scaffold" && git push origin main
