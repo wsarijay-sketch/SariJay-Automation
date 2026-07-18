@@ -1,0 +1,4 @@
+cd SariJay-Automation
+git add .
+git commit -m "feat: Add complete InspireFlow AI scaffold with 16 core files"
+git push origin main
